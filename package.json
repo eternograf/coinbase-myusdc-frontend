@@ -12,7 +12,7 @@
   "dependencies": {
     "@clerk/clerk-react": "^5.7.0",
     "@clerk/themes": "^2.1.27",
-    "@coinbase/coinbase-sdk": "^0.4.0",
+    "@coinbase/coinbase-sdk": "^0.25.0",
     "@tanstack/react-query": "^5.55.2",
     "axios": "^1.7.7",
     "framer-motion": "^11.5.4",
