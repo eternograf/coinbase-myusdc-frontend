@@ -18,8 +18,8 @@ importers:
         specifier: ^0.4.0
         version: 0.4.0
       '@tanstack/react-query':
-        specifier: ^5.55.2
-        version: 5.55.2(react@18.3.1)
+        specifier: ^5.90.20
+        version: 5.90.20(react@18.3.1)
       axios:
         specifier: ^1.7.7
         version: 1.7.7
@@ -540,11 +540,11 @@ packages:
   '@scure/bip32@1.5.0':
     resolution: {integrity: sha512-8EnFYkqEQdnkuGBVpCzKxyIwDCBLDVj3oiX0EKUFre/tOjL/Hqba1D6n/8RcmaQy4f95qQFrO2A8Sr6ybh4NRw==}
 
-  '@tanstack/query-core@5.55.2':
-    resolution: {integrity: sha512-WfuUx06sw/V3R2tRRQf4KZj0g4Q5EHrTdwJmCUovMFuHWVzDvLd5U+B7d5Pk8ni5w5SGpUuzGuQv3nN8xo1QbQ==}
+  '@tanstack/query-core@5.90.20':
+    resolution: {integrity: sha512-OMD2HLpNouXEfZJWcKeVKUgQ5n+n3A2JFmBaScpNDUqSrQSjiveC7dKMe53uJUg1nDG16ttFPz2xfilz6i2uVg==}
 
-  '@tanstack/react-query@5.55.2':
-    resolution: {integrity: sha512-PkbEmO64nphWPhufkE9aJ+iEScg8tNNCykYlH7vDwb2R6G8uJC+HTJgXc2n8cRaJe6ETVIeQLFFESVd+2N/tww==}
+  '@tanstack/react-query@5.90.20':
+    resolution: {integrity: sha512-vXBxa+qeyveVO7OA0jX1z+DeyCA4JKnThKv411jd5SORpBKgkcVnYKCiBgECvADvniBX7tobwBmg01qq9JmMJw==}
     peerDependencies:
       react: ^18 || ^19
 
@@ -2242,11 +2242,11 @@ snapshots:
       '@noble/hashes': 1.5.0
       '@scure/base': 1.1.8
 
-  '@tanstack/query-core@5.55.2': {}
+  '@tanstack/query-core@5.90.20': {}
 
-  '@tanstack/react-query@5.55.2(react@18.3.1)':
+  '@tanstack/react-query@5.90.20(react@18.3.1)':
     dependencies:
-      '@tanstack/query-core': 5.55.2
+      '@tanstack/query-core': 5.90.20
       react: 18.3.1
 
   '@types/babel__core@7.20.5':
